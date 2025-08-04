@@ -8,7 +8,7 @@ The data was extracted from [Citi Bike Data](https://www.citibikenyc.com/system-
 
 These files were transformed by loading them into Pandas dataframes, the compatibility was checked and then merged utilising the concat function into a a final "2021-2022_df.csv"
 
-This final file was then loaded into Tableau to proceed with the analysis and uncover the determined phenomenom.
+This final file was then loaded into Tableau to proceed with the analysis and uncover the determined phenomenom. [Tableu Story](https://public.tableau.com/app/profile/jose.sandoval5975/viz/City_Bike_Analysis_16769645485120/Story1)
 
 ## Phenomena to be analysed
 
